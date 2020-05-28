@@ -4,3 +4,4 @@ def badge_maker(array)
     puts "Hello, my name is #{name}"
   end
 end
+badge_maker('Erdo')
