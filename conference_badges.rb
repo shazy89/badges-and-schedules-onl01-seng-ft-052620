@@ -4,4 +4,4 @@ def badge_maker(name)
 end
 
 
-my_a
+attendees = [""]
