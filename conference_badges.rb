@@ -1,7 +1,8 @@
 # Write your code here.
 def badge_maker(array)
-  array.each do |name|
-    puts "Hello, my name is #{name}"
+  array.each do |i|
+    puts "Hello, my name is #{i}"
   end
 end
-badge_maker("Erdo")
+
+badge_maker(["erdo"])
