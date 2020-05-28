@@ -5,4 +5,4 @@ def badge_maker(array)
   end
 end
 
-badge_maker(["erdo"])
+badge_maker([""])
